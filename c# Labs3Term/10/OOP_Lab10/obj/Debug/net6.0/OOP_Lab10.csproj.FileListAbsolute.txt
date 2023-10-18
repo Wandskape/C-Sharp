@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\OOP_Lab10\OOP_Lab10\bin\Debug\net6.0\OOP_Lab10.exe
+C:\Users\Asus\source\repos\OOP_Lab10\OOP_Lab10\bin\Debug\net6.0\OOP_Lab10.deps.json
+C:\Users\Asus\source\repos\OOP_Lab10\OOP_Lab10\bin\Debug\net6.0\OOP_Lab10.runtimeconfig.json
+C:\Users\Asus\source\repos\OOP_Lab10\OOP_Lab10\bin\Debug\net6.0\OOP_Lab10.dll
+C:\Users\Asus\source\repos\OOP_Lab10\OOP_Lab10\bin\Debug\net6.0\OOP_Lab10.pdb
+C:\Users\Asus\source\repos\OOP_Lab10\OOP_Lab10\obj\Debug\net6.0\OOP_Lab10.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\OOP_Lab10\OOP_Lab10\obj\Debug\net6.0\OOP_Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\OOP_Lab10\OOP_Lab10\obj\Debug\net6.0\OOP_Lab10.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\OOP_Lab10\OOP_Lab10\obj\Debug\net6.0\OOP_Lab10.AssemblyInfo.cs
+C:\Users\Asus\source\repos\OOP_Lab10\OOP_Lab10\obj\Debug\net6.0\OOP_Lab10.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\OOP_Lab10\OOP_Lab10\obj\Debug\net6.0\OOP_Lab10.dll
+C:\Users\Asus\source\repos\OOP_Lab10\OOP_Lab10\obj\Debug\net6.0\refint\OOP_Lab10.dll
+C:\Users\Asus\source\repos\OOP_Lab10\OOP_Lab10\obj\Debug\net6.0\OOP_Lab10.pdb
+C:\Users\Asus\source\repos\OOP_Lab10\OOP_Lab10\obj\Debug\net6.0\OOP_Lab10.genruntimeconfig.cache
+C:\Users\Asus\source\repos\OOP_Lab10\OOP_Lab10\obj\Debug\net6.0\ref\OOP_Lab10.dll

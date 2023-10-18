@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\OOP_4Lab\OOP_4Lab\bin\Debug\net6.0\OOP_4Lab.exe
+C:\Users\Asus\source\repos\OOP_4Lab\OOP_4Lab\bin\Debug\net6.0\OOP_4Lab.deps.json
+C:\Users\Asus\source\repos\OOP_4Lab\OOP_4Lab\bin\Debug\net6.0\OOP_4Lab.runtimeconfig.json
+C:\Users\Asus\source\repos\OOP_4Lab\OOP_4Lab\bin\Debug\net6.0\OOP_4Lab.dll
+C:\Users\Asus\source\repos\OOP_4Lab\OOP_4Lab\bin\Debug\net6.0\OOP_4Lab.pdb
+C:\Users\Asus\source\repos\OOP_4Lab\OOP_4Lab\obj\Debug\net6.0\OOP_4Lab.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\OOP_4Lab\OOP_4Lab\obj\Debug\net6.0\OOP_4Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\OOP_4Lab\OOP_4Lab\obj\Debug\net6.0\OOP_4Lab.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\OOP_4Lab\OOP_4Lab\obj\Debug\net6.0\OOP_4Lab.AssemblyInfo.cs
+C:\Users\Asus\source\repos\OOP_4Lab\OOP_4Lab\obj\Debug\net6.0\OOP_4Lab.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\OOP_4Lab\OOP_4Lab\obj\Debug\net6.0\OOP_4Lab.dll
+C:\Users\Asus\source\repos\OOP_4Lab\OOP_4Lab\obj\Debug\net6.0\refint\OOP_4Lab.dll
+C:\Users\Asus\source\repos\OOP_4Lab\OOP_4Lab\obj\Debug\net6.0\OOP_4Lab.pdb
+C:\Users\Asus\source\repos\OOP_4Lab\OOP_4Lab\obj\Debug\net6.0\OOP_4Lab.genruntimeconfig.cache
+C:\Users\Asus\source\repos\OOP_4Lab\OOP_4Lab\obj\Debug\net6.0\ref\OOP_4Lab.dll
+C:\Users\Asus\source\repos\OOP_4Lab\OOP_4Lab\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\OOP_4Lab\OOP_4Lab\obj\Debug\net6.0\OOP_4Lab.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\OOP_Lab8Delegate\OOP_Lab8Delegate\obj\Debug\net6.0\OOP_Lab8Delegate.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\OOP_Lab8Delegate\OOP_Lab8Delegate\obj\Debug\net6.0\OOP_Lab8Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\OOP_Lab8Delegate\OOP_Lab8Delegate\obj\Debug\net6.0\OOP_Lab8Delegate.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\OOP_Lab8Delegate\OOP_Lab8Delegate\obj\Debug\net6.0\OOP_Lab8Delegate.AssemblyInfo.cs
+C:\Users\Asus\source\repos\OOP_Lab8Delegate\OOP_Lab8Delegate\obj\Debug\net6.0\OOP_Lab8Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\OOP_Lab8Delegate\OOP_Lab8Delegate\bin\Debug\net6.0\OOP_Lab8Delegate.exe
+C:\Users\Asus\source\repos\OOP_Lab8Delegate\OOP_Lab8Delegate\bin\Debug\net6.0\OOP_Lab8Delegate.deps.json
+C:\Users\Asus\source\repos\OOP_Lab8Delegate\OOP_Lab8Delegate\bin\Debug\net6.0\OOP_Lab8Delegate.runtimeconfig.json
+C:\Users\Asus\source\repos\OOP_Lab8Delegate\OOP_Lab8Delegate\bin\Debug\net6.0\OOP_Lab8Delegate.dll
+C:\Users\Asus\source\repos\OOP_Lab8Delegate\OOP_Lab8Delegate\bin\Debug\net6.0\OOP_Lab8Delegate.pdb
+C:\Users\Asus\source\repos\OOP_Lab8Delegate\OOP_Lab8Delegate\obj\Debug\net6.0\OOP_Lab8Delegate.dll
+C:\Users\Asus\source\repos\OOP_Lab8Delegate\OOP_Lab8Delegate\obj\Debug\net6.0\refint\OOP_Lab8Delegate.dll
+C:\Users\Asus\source\repos\OOP_Lab8Delegate\OOP_Lab8Delegate\obj\Debug\net6.0\OOP_Lab8Delegate.pdb
+C:\Users\Asus\source\repos\OOP_Lab8Delegate\OOP_Lab8Delegate\obj\Debug\net6.0\OOP_Lab8Delegate.genruntimeconfig.cache
+C:\Users\Asus\source\repos\OOP_Lab8Delegate\OOP_Lab8Delegate\obj\Debug\net6.0\ref\OOP_Lab8Delegate.dll
